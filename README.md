@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">  CONTACT  </h3>
 <p align="center">
-  /*<a href="https://koko95.notion.site/fb14fa5ce9f44449a90c2e137437bd8b//1">*/
+  <a href="노션주소">
     <img height="30" src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white">
   </a>
   <a href="https://instagram.com/gau__din?igshid=ZDdkNTZiNTM=">  
