@@ -78,8 +78,6 @@ Here are some ideas to get you started:
 <p align="center">
 <!--   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu" />&nbsp;&nbsp; -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Kojonghoon&show_icons=true&theme=dracula" />
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kojonghoon&show_icons=true&theme=dracula)
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kojonghoon"  width="480" />
